@@ -1,7 +1,7 @@
-# extract-news-api
+# whois-data-api[Working]
 Flask code to deploy an API that pulls structured data from online news articles.
 
-This is a source code of an API that you can find here (free plan available): https://rapidapi.com/kotartemiy/api/extract-news
+This is a source code of an API that you can find here (free plan available): 
 
 
 
